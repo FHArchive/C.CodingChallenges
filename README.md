@@ -11,8 +11,8 @@
 
 # C.CodingChallenges
 
-Multiple repositories combined containing simple c programs
-
+Multiple repositories combined containing simple c programs. Some coding
+challenges to develop my knowledge and skills in go.
 
 ## Current programs
 ### factorial
