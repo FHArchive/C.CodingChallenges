@@ -12,7 +12,7 @@
 # C.CodingChallenges
 
 Multiple repositories combined containing simple c programs. Some coding
-challenges to develop my knowledge and skills in go.
+challenges to develop my knowledge and skills in c.
 
 ## Current programs
 ### factorial
